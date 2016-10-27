@@ -1,4 +1,4 @@
-# TTD Challenges
+# TDD Challenges
 
 > [Training](https://github.com/simplonco/training) / Challenges
 
